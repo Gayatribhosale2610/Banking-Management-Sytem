@@ -19,5 +19,3 @@ The Sparks Foundation Internship Project - Basic Banking System
 ### Flow of the website
 Home > View Customer > Select One Customer > Transfer Money > Select Receiver > View Customer
 
-#### Some screenshots of website :
-

@@ -1,4 +1,4 @@
-# Basic-banking-system
+# Banking Management system
 
 ## Introduction
 The Sparks Foundation Internship Project - Basic Banking System
